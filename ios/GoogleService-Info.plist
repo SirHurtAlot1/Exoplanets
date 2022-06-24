@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>476288312614-qkmlm1bko34b2l91s2i4vqo9kvg9fmdh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.476288312614-qkmlm1bko34b2l91s2i4vqo9kvg9fmdh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDyAyGru_HV5EAkhWft0RwUnsupnoTv9b0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>476288312614</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.exoplanet</string>
+	<key>PROJECT_ID</key>
+	<string>exoplanetsflutter</string>
+	<key>STORAGE_BUCKET</key>
+	<string>exoplanetsflutter.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:476288312614:ios:7060cb5cd2ec0ccf294de7</string>
+</dict>
+</plist>

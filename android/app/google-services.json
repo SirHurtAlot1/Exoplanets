@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "476288312614",
+    "project_id": "exoplanetsflutter",
+    "storage_bucket": "exoplanetsflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476288312614:android:98e58acd4ee630b9294de7",
+        "android_client_info": {
+          "package_name": "com.example.exoplanets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476288312614-2lf6ii4osjda7ti6f62dl6a4jesj06mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtyvPtN4w2sej4KR8yDGEh_McrdZRA1Bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476288312614-2lf6ii4osjda7ti6f62dl6a4jesj06mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
